@@ -1,0 +1,13 @@
+groq
+openai
+pinecone-client
+sentence-transformers
+pypdf
+python-dotenv
+numpy
+torch
+tqdm
+pandas
+scikit-learn
+fastapi
+uvicorn
